@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "H:\\GitHub Repositories\\Valutaomregner\\Valutaomregner\\",
+  "WorkspaceRootPath": "D:\\GitHub Repositories\\Valutaomregner\\Valutaomregner\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FDF9D49-630C-44FE-8C53-A0D2A26AB4D3}|Valutaomregner\\Valutaomregner.csproj|h:\\github repositories\\valutaomregner\\valutaomregner\\valutaomregner\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7FDF9D49-630C-44FE-8C53-A0D2A26AB4D3}|Valutaomregner\\Valutaomregner.csproj|d:\\github repositories\\valutaomregner\\valutaomregner\\valutaomregner\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FDF9D49-630C-44FE-8C53-A0D2A26AB4D3}|Valutaomregner\\Valutaomregner.csproj|solutionrelative:valutaomregner\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FDF9D49-630C-44FE-8C53-A0D2A26AB4D3}|Valutaomregner\\Valutaomregner.csproj|h:\\github repositories\\valutaomregner\\valutaomregner\\valutaomregner\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{7FDF9D49-630C-44FE-8C53-A0D2A26AB4D3}|Valutaomregner\\Valutaomregner.csproj|d:\\github repositories\\valutaomregner\\valutaomregner\\valutaomregner\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7FDF9D49-630C-44FE-8C53-A0D2A26AB4D3}|Valutaomregner\\Valutaomregner.csproj|solutionrelative:valutaomregner\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FDF9D49-630C-44FE-8C53-A0D2A26AB4D3}|Valutaomregner\\Valutaomregner.csproj|h:\\github repositories\\valutaomregner\\valutaomregner\\valutaomregner\\currencyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7FDF9D49-630C-44FE-8C53-A0D2A26AB4D3}|Valutaomregner\\Valutaomregner.csproj|d:\\github repositories\\valutaomregner\\valutaomregner\\valutaomregner\\currencyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FDF9D49-630C-44FE-8C53-A0D2A26AB4D3}|Valutaomregner\\Valutaomregner.csproj|solutionrelative:valutaomregner\\currencyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FDF9D49-630C-44FE-8C53-A0D2A26AB4D3}|Valutaomregner\\Valutaomregner.csproj|h:\\github repositories\\valutaomregner\\valutaomregner\\valutaomregner\\exchangeratedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7FDF9D49-630C-44FE-8C53-A0D2A26AB4D3}|Valutaomregner\\Valutaomregner.csproj|d:\\github repositories\\valutaomregner\\valutaomregner\\valutaomregner\\exchangeratedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FDF9D49-630C-44FE-8C53-A0D2A26AB4D3}|Valutaomregner\\Valutaomregner.csproj|solutionrelative:valutaomregner\\exchangeratedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,49 +32,46 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "CurrencyItem.cs",
-              "DocumentMoniker": "H:\\GitHub Repositories\\Valutaomregner\\Valutaomregner\\Valutaomregner\\CurrencyItem.cs",
+              "DocumentMoniker": "D:\\GitHub Repositories\\Valutaomregner\\Valutaomregner\\Valutaomregner\\CurrencyItem.cs",
               "RelativeDocumentMoniker": "Valutaomregner\\CurrencyItem.cs",
-              "ToolTip": "H:\\GitHub Repositories\\Valutaomregner\\Valutaomregner\\Valutaomregner\\CurrencyItem.cs",
+              "ToolTip": "D:\\GitHub Repositories\\Valutaomregner\\Valutaomregner\\Valutaomregner\\CurrencyItem.cs",
               "RelativeToolTip": "Valutaomregner\\CurrencyItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T15:00:02.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T15:00:02.13Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ExchangeRateData.cs",
-              "DocumentMoniker": "H:\\GitHub Repositories\\Valutaomregner\\Valutaomregner\\Valutaomregner\\ExchangeRateData.cs",
+              "DocumentMoniker": "D:\\GitHub Repositories\\Valutaomregner\\Valutaomregner\\Valutaomregner\\ExchangeRateData.cs",
               "RelativeDocumentMoniker": "Valutaomregner\\ExchangeRateData.cs",
-              "ToolTip": "H:\\GitHub Repositories\\Valutaomregner\\Valutaomregner\\Valutaomregner\\ExchangeRateData.cs",
+              "ToolTip": "D:\\GitHub Repositories\\Valutaomregner\\Valutaomregner\\Valutaomregner\\ExchangeRateData.cs",
               "RelativeToolTip": "Valutaomregner\\ExchangeRateData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T14:11:44.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T14:11:44.479Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "H:\\GitHub Repositories\\Valutaomregner\\Valutaomregner\\Valutaomregner\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\GitHub Repositories\\Valutaomregner\\Valutaomregner\\Valutaomregner\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Valutaomregner\\MainWindow.xaml",
-              "ToolTip": "H:\\GitHub Repositories\\Valutaomregner\\Valutaomregner\\Valutaomregner\\MainWindow.xaml",
+              "ToolTip": "D:\\GitHub Repositories\\Valutaomregner\\Valutaomregner\\Valutaomregner\\MainWindow.xaml",
               "RelativeToolTip": "Valutaomregner\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-19T14:04:43.035Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T14:04:43.035Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "H:\\GitHub Repositories\\Valutaomregner\\Valutaomregner\\Valutaomregner\\MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub Repositories\\Valutaomregner\\Valutaomregner\\Valutaomregner\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Valutaomregner\\MainWindow.xaml.cs",
-              "ToolTip": "H:\\GitHub Repositories\\Valutaomregner\\Valutaomregner\\Valutaomregner\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\GitHub Repositories\\Valutaomregner\\Valutaomregner\\Valutaomregner\\MainWindow.xaml.cs",
               "RelativeToolTip": "Valutaomregner\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAIwOEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T14:04:39.247Z",
               "EditorCaption": ""

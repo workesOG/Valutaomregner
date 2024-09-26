@@ -216,17 +216,18 @@ namespace Valutaomregner
                     // Vi sætter teksten i resultat's-boksen til dette tal, og runder ned til 2 decimaler ved hjælp af formattering med "F2"
                     txtConvertedAmount.Text = convertedAmount.ToString("F2", CultureInfo.InvariantCulture);
                 }
-                else
-                {
-                    // Hvis en af de valgte elementer fra en af komboboksene er en null-værdi, sæt resultat's-feltets tekst til at være ingenting
-                    txtConvertedAmount.Text = string.Empty;
-                }
             }
             else
             {
+                if (amountText == "")
+                {
+                    // Hvis en af de valgte elementer fra en af komboboksene er en null-værdi, sæt resultat's-feltets tekst til at være ingenting
+                    txtConvertedAmount.Text = string.Empty;
+                    return;
+                }
                 // Ligeledes, hvis værdien ikke kunne oversættes til datatypen decimal, oftest fordi der er bogstaver, flere kommaer eller lignende,
                 // sæt resultat's-feltets tekst til at være ingenting
-                txtConvertedAmount.Text = "Det indtastede beløb er ugyldigt";
+                txtConvertedAmount.Text = "Indtastet beløb er ugyldigt";
             }
         }
     }
